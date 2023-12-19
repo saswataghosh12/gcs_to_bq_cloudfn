@@ -6,3 +6,4 @@ pandas
 pandas-gbq
 
 --https://youtu.be/n3dMMgUdRdk?si=JPCc8jqY2JWO-5xu
+
